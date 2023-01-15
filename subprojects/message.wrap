@@ -3,5 +3,4 @@ url = https://github.com/NINLeviathan/message.git
 revision = head
 depth = 1
 
-patch_url = https://github.com/NINLeviathan/messagebuild.git
-patch_filename = meson.build
+patch_directory = message

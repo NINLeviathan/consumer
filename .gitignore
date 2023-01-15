@@ -33,3 +33,6 @@
 
 # Meson builddir
 builddir/
+
+# Subprojects downloaded though Meson subprojects
+subprojects/message

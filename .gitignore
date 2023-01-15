@@ -36,3 +36,6 @@ builddir/
 
 # Subprojects downloaded though Meson subprojects
 subprojects/message
+
+# VSCode specific folder
+.vscode

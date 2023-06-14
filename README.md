@@ -21,6 +21,9 @@ Checkout tag v1.0
 To build code in this repos using subproject two (Message v2.1)  
 Checkout tag v2.0  
 
+To build code in this repos using subproject three (Message v3.0)  
+Checkout tag v3.0  
+
 ## Build with Meson
 
 To build this project with the Meson build system, run the following commands on the command line.

@@ -1,7 +1,7 @@
 project(
     'consumer',
     'cpp',
-    version : 'a.1.0'
+    version : '2.0'
 )
 
 consumer_src = files(

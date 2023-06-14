@@ -13,6 +13,14 @@ This repo is to make use of files placed in the "src" folder in the [message](ht
 g++ compiler  
 Meson build system
 
+## Subprojects
+
+To build code in this repos using subproject one (Message v1.0)  
+Checkout tag v1.0  
+  
+To build code in this repos using subproject two (Message v2.1)  
+Checkout tag v2.0  
+
 ## Build with Meson
 
 To build this project with the Meson build system, run the following commands on the command line.

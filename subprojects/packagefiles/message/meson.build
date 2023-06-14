@@ -1,11 +1,11 @@
 project(
     'message',
     'cpp',
-    version : 'a.1.0'
+    version : '2.1'
 )
 
 message_src = files(
-    'src/message.cpp',
+    'src/messagetwo.cpp',
     'main.cpp'
 )
 
@@ -17,7 +17,7 @@ executable(
 # Library for linking in consuming projects
 
 message_lib_src = [
-    'src/message.cpp'
+    'src/messagetwo.cpp'
 ]
 
 message_lib_inc = include_directories(
